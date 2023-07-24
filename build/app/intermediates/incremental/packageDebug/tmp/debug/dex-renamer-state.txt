@@ -1,0 +1,4 @@
+#Mon Jul 24 10:34:44 JST 2023
+base.0=/Users/mm6/AndroidStudioProjects/apu_map/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
